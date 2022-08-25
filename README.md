@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shahalz
 - 👀 I’m interested in administration
-- 🌱 I’m currently learning Coding in Python
+- 🌱 I’m currently learning full stack and salesforce
 - 💞️ I’m looking to collaborate on mini projects
 - 📫 How to reach me shahal17092000@gmail.com
 
